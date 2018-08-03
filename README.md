@@ -8,7 +8,7 @@ Before running the following scripts its necessary to perform the digestion of t
 
 1. Install rebaseextract (http://emboss.sourceforge.net/apps/release/6.6/emboss/apps/rebaseextract.html#input.1) 
 
-2. # PATH="$PATH:/usr/local/emboss/bin" export PATH
+2. export PATH "/usr/local/emboss/bin"
 
 3. Download latest versions of withrefm (ftp://ftp.neb.com/pub/rebase/withrefm.txt) and proto (ftp://ftp.neb.com/pub/rebase/proto.txt) files. 
 
